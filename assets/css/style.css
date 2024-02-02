@@ -12,6 +12,7 @@ a{
 
 .a{
    font-family: 'segoe print'; 
+   src: url('../fonts/segoesc.ttf');
 }
 p{
     text-align: justify;
