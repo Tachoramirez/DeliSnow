@@ -1,0 +1,17 @@
+img{
+    max-height: 800px;
+    max-width: 800px;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+a{
+    font-family: 'segoe print';
+}
+
+.a{
+   font-family: 'segoe print'; 
+}
+p{
+    text-align: justify;
+}
