@@ -6,7 +6,8 @@ img{
 }
 
 a{
-    font-family: 'segoe print';
+    font-family:  'segoe print';
+    src: url('../fonts/segoesc.ttf');
 }
 
 .a{
