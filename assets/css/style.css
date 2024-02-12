@@ -7,12 +7,12 @@ img{
 
 a{
     font-family:  'segoe print';
-    src: url('../fonts/segoesc.ttf');
+    src: url('assets/fonts/segoesc.ttf');
 }
 
 .a{
    font-family: 'segoe print'; 
-   src: url('../fonts/segoesc.ttf');
+   src: url('assets/fonts/segoesc.ttf');
 }
 p{
     text-align: justify;
